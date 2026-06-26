@@ -4,11 +4,6 @@
 
 ---
 
-## 📸 Preview
-
-*(Add a screenshot or GIF of your engine here)*
-
----
 
 ## 📁 Project Structure
 
